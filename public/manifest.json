@@ -1,0 +1,16 @@
+{
+    "name": "G Manil Kumar | UI/UX Designer",
+    "short_name": "GMK Portfolio",
+    "description": "Portfolio of G Manil Kumar - UI/UX Designer & Frontend Developer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#2563EB",
+    "icons": [
+        {
+            "src": "/vite.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
